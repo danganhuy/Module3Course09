@@ -3,7 +3,6 @@ import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Date;
 
 @WebServlet(name = "ConvertCurrency", value = "/index3")
 public class Exercise3 extends HttpServlet {

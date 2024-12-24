@@ -7,8 +7,9 @@
 <body>
     <h1><%= "Hello World!" %></h1>
     <br/>
-    <div><a href="index">Hello Servlet</a></div>
+    <div><a href="index1">Hello Servlet</a></div>
     <div><a href="index2">Login</a></div>
     <div><a href="index3">Convert currency</a></div>
+    <div><a href="index4">Dictionary</a></div>
 </body>
 </html>
