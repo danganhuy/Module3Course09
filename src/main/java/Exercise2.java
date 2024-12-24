@@ -1,11 +1,8 @@
-package org.example.module3course09;
-
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Date;
 
 @WebServlet(name = "Exercise2", value = "/index2")
 public class Exercise2 extends HttpServlet {

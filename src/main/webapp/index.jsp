@@ -9,5 +9,6 @@
     <br/>
     <div><a href="index">Hello Servlet</a></div>
     <div><a href="index2">Login</a></div>
+    <div><a href="index3">Convert currency</a></div>
 </body>
 </html>

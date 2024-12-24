@@ -1,5 +1,3 @@
-package org.example.module3course09;
-
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
