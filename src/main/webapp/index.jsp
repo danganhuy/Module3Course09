@@ -11,5 +11,6 @@
     <div><a href="index2">Login</a></div>
     <div><a href="index3">Convert currency</a></div>
     <div><a href="index4">Dictionary</a></div>
+    <div><a href="index5">Product discount</a></div>
 </body>
 </html>
