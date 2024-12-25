@@ -17,6 +17,7 @@
             width: 100%;
             padding: 5px;
             margin: 5px;
+            box-sizing: border-box;
         }
     </style>
 </head>
